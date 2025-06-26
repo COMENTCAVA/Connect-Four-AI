@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+
 # 🎯 Puissance 4 – IA vs Humain
 
 Bienvenue dans **Puissance 4**, une implémentation console où un joueur humain affronte une **intelligence artificielle** 🧠 dans une grille de **6 lignes x 12 colonnes**. Le jeu repose sur l'algorithme **Minimax avec élagage alpha-bêta** et une évaluation heuristique du plateau.
@@ -13,6 +13,7 @@ Bienvenue dans **Puissance 4**, une implémentation console où un joueur humain
 Assurez-vous d’avoir **Python 3** installé.
 
 Lancez simplement le script :
+
 
 ```bash
 python puissance4.py
