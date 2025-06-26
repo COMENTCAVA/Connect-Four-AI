@@ -125,11 +125,5 @@ Ce projet est un bon point de départ pour :
 * Travailler sur la modélisation et la détection de patterns dans un plateau de jeu
 
 ---
-
 🤝 Bon jeu et bonne chance contre l’IA !
-
-```
-
 ---
-
-```
